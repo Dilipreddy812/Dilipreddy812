@@ -1,7 +1,7 @@
 ![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
 <h1 align="center">Hi 👋, I'm Dilip Kumar B</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/925382df1a51ad299db7f3d7daec56d71de5f5c148bb36e45415752968b3192b/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f706f6b656d6f682d61643066612e61707073706f742e636f6d2f6f2f65386634353334363961336563393765636433353464663436356437333931332e6769663f616c743d6d6564696126746f6b656e3d30343235333662312d643139612d343433382d616262642d343832613738663631623230">
+<img align="right" alt="Coding" width="400"  src="https://www.shutterstock.com/image-vector/laptop-programming-tag-web-icon-1845457165">
 - 👯 I’m looking to collaborate **and work**
 
 - 🤝 I’m looking for help with **networking**
